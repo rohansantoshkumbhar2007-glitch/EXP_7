@@ -1,11 +1,11 @@
-🔁 FOR LOOPS IN PYTHON
+#🔁 FOR LOOPS IN PYTHON
 📌 Introduction
 
 A for loop in Python is used to iterate over a sequence (such as a list, tuple, string, or range). It allows you to execute a block of code multiple times in a clean and readable way.
 
 Python’s for loop is different from many other programming languages because it works directly with iterable objects.
 
-🎯 Objectives
+#🎯 Objectives
 
 Understand what a for loop is
 
@@ -19,7 +19,7 @@ Apply nested for loops
 
 Use break, continue, and else with loops
 
-🧠 Basic Syntax
+#🧠 Basic Syntax
 for variable in sequence:
     # code block
 
@@ -87,6 +87,6 @@ Works efficiently with iterable objects
 
 Useful in data processing and automation
 
-📚 Conclusion
+#📚 Conclusion
 
 The for loop is one of the most important control structures in Python. It simplifies iteration and makes programs cleaner and more efficient. Mastering loops is essential for solving real-world programming problems.
